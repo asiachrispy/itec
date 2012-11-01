@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ArrayList & LinkedList知多少"
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-09

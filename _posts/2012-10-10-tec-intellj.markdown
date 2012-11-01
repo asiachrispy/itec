@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "LYCE Lesson Six"
-tag: "English"
+title: "intellj快捷键"
+tag: "tec"
 comment: true
 published: true
 date: 2012-09-22
 ---
+
+有时在Windows下开发，常使用IntellJ作为开发工具，而要高效的使用工具，就只有记住常用命令了。
 
 ###查询快捷键  
 CTRL+N   查找类  

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "LYCE Lesson Six"
-tag: "English"
+title: "Observer pattern"
+tag: "tec"
 comment: true
 published: true
-date: 2012-09-22
+date: 2012-10-01
 ---
 

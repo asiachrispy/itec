@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "办公桌前不做四件事"
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-12

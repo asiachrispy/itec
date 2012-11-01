@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "HashMap &  LinkedHashMap & HashTable"
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-11
 ---
+这里收集常用运算符，并展示如何使用
+
 1. = 赋值运算符
 变量=表达式 如：a=3；将a的值赋为3
 2. /= 除后赋值

@@ -9,7 +9,7 @@ date: 2012-10-08
 
 一定有你不知道的mvn 命令
 
-```
+```    
 常用命令： 
 mvn -v 显示版本 
 mvn help:effective-pom 看这个“有效的 (effective)”POM，它暴露了 Maven的默认设置 
@@ -29,7 +29,9 @@ mvn clean install 删除再编译
 
 ```
 
-```
+###示例
+
+```    
 $ mvn archetype:create -DgroupId=org.sonatype.mavenbook.ch04 \                                                  -DartifactId=simple-weather \                                                  -DpackageName=org.sonatype.mavenbook \                                                  -Dversion=1.0
                                                   
 <project xmlns="http://maven.apache.org/POM/4.0.0"          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0                      http://maven.apache.org/maven-v4_0_0.xsd">  <modelVersion>4.0.0</modelVersion>  <groupId>org.sonatype.mavenbook.ch04</groupId>  <artifactId>simple-weather</artifactId>  <packaging>jar</packaging>  <version>1.0</version>  <name>simple-weather2</name>  <url>http://maven.apache.org</url>  <dependencies>    <dependency>      <groupId>junit</groupId>      <artifactId>junit</artifactId>      <version>3.8.1</version>      <scope>test</scope>    </dependency>  </dependencies></project>

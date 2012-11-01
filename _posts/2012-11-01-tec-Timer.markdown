@@ -1,0 +1,16 @@
+---
+layout: post
+title: "任务如何延迟执行"
+tag: "tec"
+comment: true
+published: true
+date: 2012-10-08
+---
+使用 ScheduledExecutorService 来替换 Timer
+java.util.Timer计时器有管理任务延迟执行("如1000ms后执行任务")以及周期性执行("如每500ms执行一次该任务")。
+
+但是，Timer存在一些缺陷：
+
+1，Timer对调度的支持是基于绝对时间,而不是相对时间的，由此任务对系统时钟的改变是敏感的;ScheduledThreadExecutor只支持相对时间。 
+
+2，如果TimerTask抛出未检查的异常，Timer将会产生无法预料的行为。Timer线程并不捕获异常，所以 TimerTask抛出的未检查的异常会终止timer线程。此时，已经被安排但尚未执行的TimerTask永远不会再执行了，新的任务也不能被调度了。

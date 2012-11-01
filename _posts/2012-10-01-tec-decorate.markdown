@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "设计模式--装饰模式（Decorator）"
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-01
