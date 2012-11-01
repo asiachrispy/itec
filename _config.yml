@@ -15,7 +15,7 @@ url:http://asiachrispy.github.com/itec
 
 markdown:kramdown
 pygments:false
-permalink:/tec/:year/:month/:day/:title
+permalink:/itec/:year/:month/:day/:title
 disqus_short_name:chrispy 
 lsi:false
 
