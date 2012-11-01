@@ -16,14 +16,14 @@ title: 全部文章
 		  {% endif %}
 		  <li class="listing-item">
 			<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-			<a href="{{site.baseurl}}/tec{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<a href="{{site.baseurl}}/itec{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 		  </li>
 		{% endfor %}
 		</ul>
 		
 		<div id="post-bottom">
 			<p style="text-align:right" class="more">
-				<a href="{{site.baseurl}}/tec/">返回主页</a>
+				<a href="{{site.baseurl}}/itec/">返回主页</a>
 			</p>
 		</div>
 	</article>
