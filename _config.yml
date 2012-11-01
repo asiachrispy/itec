@@ -2,22 +2,22 @@ meta:
     site_title: "Chris"
     site_subtitle: "Endless war"
     site_language: "zh-cn"
-    absolute_baseurl:http://asiachrispy.github.com/itec
-    domain:asiachrispy.github.com
+    absolute_baseurl: http://asiachrispy.github.com/itec
+    domain: asiachrispy.github.com
     author:
-        full_name:Huang Zhong
-        short_name:chrispy
-        name:chrispy
-        email:asiachrispy@gmail.com
+        full_name: Huang Zhong
+        short_name: chrispy
+        name: chrispy
+        email: asiachrispy@gmail.com
 
-baseurl:/itec
-url:http://asiachrispy.github.com/itec
+baseurl: /itec
+url: http://asiachrispy.github.com/itec
 
-markdown:kramdown
-pygments:false
-permalink:/itec/:year/:month/:day/:title
-disqus_short_name:chrispy 
-lsi:false
+markdown: kramdown
+pygments: false
+permalink: /itec/:year/:month/:day/:title
+disqus_short_name: chrispy 
+lsi: false
 
 
 
