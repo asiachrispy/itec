@@ -6,7 +6,7 @@ comment: true
 published: true
 date: 2012-10-08
 ---
-
+看看选择排序如何实现。
 ```
 static void selectionSort (int[] array) {
           // 最后一个数不需要再比较了，所以-1

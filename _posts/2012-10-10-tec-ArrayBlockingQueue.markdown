@@ -7,6 +7,8 @@ published: true
 date: 2012-10-12
 ---
 
+关于数组队列，你会联想到什么，也只有ArrayBlockingQueue了，下面就来看看。
+
 **public class ArrayBlockingQueue<E>    
                             extends AbstractQueue<E>    
                                     implements BlockingQueue<E>, Serializable**   

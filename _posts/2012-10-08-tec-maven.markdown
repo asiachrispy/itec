@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "LYCE Lesson Six"
-tag: "English"
+title: "一定有你不知道的mvn 命令"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-08
 ---
 
-```
+一定有你不知道的mvn 命令
 
+```
 常用命令： 
 mvn -v 显示版本 
 mvn help:effective-pom 看这个“有效的 (effective)”POM，它暴露了 Maven的默认设置 
