@@ -6,7 +6,7 @@ layout: index
         {% for post in site.posts limit:10 %}
 			<div>
 				<p class="excerpt">	
-					  <a href="{{site.baseurl}}/tec{{ post.url }}" target="_blank">{{ post.title }}	</a>				
+					  <a href="{{site.baseurl}}{{ post.url }}" target="_blank">{{ post.title }}	</a>				
 					  <span class="post-date" >
 						Posted on {{ post.date | date:"%Y-%m-%d" }}			 
 					  </span>	
@@ -19,11 +19,11 @@ layout: index
 						<p>{{ post.content | strip_html | truncatewords: 2 }}</p>
 					{% endif %}
 					<p style="text-align:right">
-						<span class="more"><a  target="_blank" href="{{site.baseurl}}/tec{{ post.url }}">阅读全文...</a></span>
+						<span class="more"><a  target="_blank" href="{{site.baseurl}}{{ post.url }}">阅读全文...</a></span>
 					</p>
 				</div>
 			</div>
         {% endfor %}
-    <center><a href="{{ site.baseurl }}/tec/archives">文章列表</a></center>
+    <center><a href="{{ site.baseurl }}/archives">文章列表</a></center>
 </article>
 
