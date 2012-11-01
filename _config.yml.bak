@@ -1,0 +1,31 @@
+meta: site_title: "黄忠的技术博客"
+meta: site_subtitle: "永不停息的战争"
+meta: site_language: "zh-cn"
+meta: absolute_baseurl: http://asiachrispy.github.com/tec
+
+meta: domain: asiachrispy.github.com
+
+meta: author: full_name:Huang Zhong
+meta: author: short_name: chrispy
+meta: author: name: chrispy
+meta: author: email: asiachrispy@gmail.com
+
+baseurl: /tec
+url: http://asiachrispy.github.com/tec
+
+markdown: kramdown
+# markdown: maruku
+# maruku:
+#   use_divs: true
+#    use_tex: true
+#    png_engine : blahtex
+#    png_dir    : images/latex/
+#    png_url    : /images/latex/
+
+pygments: false
+permalink: /tec/:year/:month/:day/:title
+disqus_short_name: chrispy 
+lsi: false
+
+
+

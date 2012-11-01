@@ -1,0 +1,23 @@
+meta:
+    site_title: "Chris"
+    site_subtitle: "Endless war"
+    site_language: "zh-cn"
+    absolute_baseurl:http://asiachrispy.github.com/tec
+    domain:asiachrispy.github.com
+    author:
+        full_name:Huang Zhong
+        short_name:chrispy
+        name:chrispy
+        email:asiachrispy@gmail.com
+
+baseurl:/tec
+url:http://asiachrispy.github.com/tec
+
+markdown:kramdown
+pygments:false
+permalink:/tec/:year/:month/:day/:title
+disqus_short_name:chrispy 
+lsi:false
+
+
+
