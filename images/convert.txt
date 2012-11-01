@@ -1,0 +1,3 @@
+convert -sample 75%x100% viewer-1.jpg viewer-m1.jpg
+
+convert -resize 690x400 src.jpg desc.jpg

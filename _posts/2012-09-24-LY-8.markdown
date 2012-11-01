@@ -1,0 +1,45 @@
+---
+layout: post
+title: "LYCE Lesson Eight"
+tag: "English"
+comment: true
+published: true
+date: 2012-09-24
+---
+### Part One 
+    1. I love China. China is an amzing country.China is the future of the world.
+    2. How about eating out tonight?
+    3. Let's go for a walk along the river.
+    4. China and Amarica should always work together.
+    5. Dinner will be ready in an hour and a half.
+    6. Thank you for the company.  I really enjoyed the conversation.
+    7. You must practice a sentence again and again until you master it.
+    8. My father went abroad a long time ago. He has been to many countries.
+    9. Education is very importent to our nation.
+    10. His spoken English is `second to none` in this collage.
+    
+### Part Two 
+#### Sino-US Relations
+
+```
+    Ladies and gentelemen. America is a great country.China is a great country.China and America have a long history together. Now is the right time to build an even closer and stronger relationship.China is inviting more and more experts from America to share their knowledge.At the same time, America is welcoming more and more talented Chinese to sutdy and work in America.Both countries can gain a great deal from each other. America and Chinese should keep working together to build a peaceful and bright future .Thank you.
+```
+
+###Part Three
+#### 奥巴马演讲
+ And, tonight, I also want to thank the men and women who took this journey with me as fellow candidates for persident.
+ 
+ At this defining moment, at this defining moment for our nation, we should be proud that our party put force onet of the most talented , qualified field if individuals ever to run for office.
+ 
+ I have not just competed with them as rivals. I've learned from them as friends, as public servants, and as pariots who love America and are willing to work tirelessly to make this country better. They are leaders of this party and leaders that America will turn to for years to come.
+
+#### 奥巴马简介
+  贝拉克·侯赛因·奥巴马二世（Barack Hussein Obama II），美国民主党人，第44任美国总统
+  和第一位非裔美国总统，也是首位同时拥有黑（卢欧族）白（英德爱混血）血统，且童年
+  在亚洲成长的美国总统。2007年2月10日，宣布参加2008年美国总统选举，并于11月4日正
+  式当选。2009年10月9日，获得诺贝尔和平奖。2011年04月04日，宣布将参加2012年总统
+  选举。[更多](http://baike.baidu.com/view/1353297.htm '奥巴马')
+
+
+![奥巴马](http://news.baidu.com/z/resource/r/image/2011-10-26/d92281f53ab57d1f3355bb59724fcc10.jpg)
+

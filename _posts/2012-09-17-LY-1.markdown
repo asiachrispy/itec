@@ -1,0 +1,45 @@
+---
+layout: post
+title: "LYCE Lesson one"
+tag: "English"
+comment: true
+published: true
+date: 2012-09-17
+---
+
+### Part One
+
+	1. Every sentence is worth repeating a thousand times!
+	2. Every sentence is worth your attention!
+	3. Every sentence is worth your uncandition love!
+	4. Every sentence will make you a big diffrence in your english power!
+
+### Part Two 
+	1. Feel free to call me if you need my help.You have my phone number.
+	2. Sweet dreams.See you tomorrow.
+	3. I believe you can speek good english. I believe you have the talent.
+	4. I totally agree with you. I enjoyed meeting you very much.
+	5. I'm afraid I disagree with you.I have a different opinion.
+	6. If you want to speak good english, you need to repeat, repeat, and repeat.
+		This is the only secret.
+
+### Part Three
+```
+Ladies and gentlemen, today i want to give a short speech about dreams.
+We all need to dream big dream. 
+We need to deeply believe that we can achieve whatever we dream.
+The world needs more dreamers to achieve their dreams.
+The speed of progress depends of dreamers.
+Always strive to be a dreamer! 
+The world needs you!
+If you can dream it, you can achieve it!  
+```
+## Part Four
+	
+	Keep this little bit of wisdom in mind:
+		Anything I can do, I can do better.
+
+![crazy-1](/tec/images/crazy-1.jpg)
+
+
+

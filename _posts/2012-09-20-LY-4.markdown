@@ -1,0 +1,36 @@
+---
+layout: post
+title: "LYCE Lesson four"
+tag: "English"
+comment: true
+published: true
+date: 2012-09-20
+---
+
+### Part One
+
+	1. That's fantastic.That's absilutely fanfastic.
+	2. What happened?Why are so mad?
+	3. I have a happy family.My family are always talking and laughing.
+	4. How long have you been married.
+	5. That's very bad sentence.People get mad if you say that.
+	6. I have to call you back.I'am busy now.
+	7. I can't stand your bad habits.
+	8. Every moment in life matters. Live in the moment.
+	9. What's your action plan?
+	10. Grab every chance to practice English.
+		Practice is only secret to success.
+	
+### Part Two 
+#### People in my family
+
+```
+Ladies and gentlemen, let me tell you a little bit about my family.
+I have a very haddp family.My dad is absolutely a great man.He has a fantastic job. My mom is a wanderful woman. She has many outstanding talents.
+My family loves me.My family support me in good times and bad times. They help me form many good habits.My mom and dad always tell me: If I want to succeed, I need to have good habits. We practice speaking English together every morning. We have dinner together every night. We talk about our problems. We share our joys. We exercise together. We relax together. We have a lots of fun together. The atmosphere in my family is fantastic.
+I have to thank my family for their everlasting love and support. I believe that happy families make our country strong. 
+```	
+
+### Part Three
+
+![crazy-4](/tec/images/crazy-4.jpg)
