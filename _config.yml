@@ -2,7 +2,7 @@ meta:
     site_title: "Chris"
     site_subtitle: "Endless war"
     site_language: "zh-cn"
-    absolute_baseurl:http://asiachrispy.github.com/tec
+    absolute_baseurl:http://asiachrispy.github.com/itec
     domain:asiachrispy.github.com
     author:
         full_name:Huang Zhong
@@ -10,8 +10,8 @@ meta:
         name:chrispy
         email:asiachrispy@gmail.com
 
-baseurl:/tec
-url:http://asiachrispy.github.com/tec
+baseurl:/itec
+url:http://asiachrispy.github.com/itec
 
 markdown:kramdown
 pygments:false
