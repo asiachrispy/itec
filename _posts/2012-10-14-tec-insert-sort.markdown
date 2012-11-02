@@ -8,6 +8,7 @@ date: 2012-10-14
 ---
 
 我们来看看Collections.sort(List<T> list)排序方法的实现，可以总结如下：
+
 1. 使用Arrays.sort(T[])来排序   
 2. 最终(排序数组的大小小于7)使用插入排序
 3. 使用二分的方式拆分需要排序的数组，直到数组的大小小于7
@@ -16,7 +17,7 @@ date: 2012-10-14
    
 **Collections.java 关键代码如下**
 
-```
+```    
     public static <T extends Comparable<? super T>> void sort(List<T> list) {
 	    Object[] a = list.toArray();
 	    Arrays.sort(a);
@@ -27,6 +28,7 @@ date: 2012-10-14
 	    }
     }
 ```
+
 ** Arrays 关键代码如下**   
 
 ```
