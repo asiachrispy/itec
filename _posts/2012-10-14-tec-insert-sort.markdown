@@ -17,8 +17,8 @@ date: 2012-10-14
    
 **Collections.java 关键代码如下**
 
-```    
-    public static <T extends Comparable<? super T>> void sort(List<T> list) {
+```       
+    public static <T extends Comparable<? super T>> void sort(List<T> list)  {
 	    Object[] a = list.toArray();
 	    Arrays.sort(a);
 	    ListIterator<T> i = list.listIterator();
@@ -31,7 +31,7 @@ date: 2012-10-14
 
 ** Arrays 关键代码如下**   
 
-```
+```     
     public static void sort(Object[] a) {
         Object[] aux = (Object[])a.clone();
         mergeSort(aux, a, 0, a.length, 0);
