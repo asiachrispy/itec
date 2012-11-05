@@ -6,11 +6,38 @@ comment: true
 published: true
 date: 2012-10-08
 ---
-使用 ScheduledExecutorService 来替换 Timer
-java.util.Timer计时器有管理任务延迟执行("如1000ms后执行任务")以及周期性执行("如每500ms执行一次该任务")。
 
-但是，Timer存在一些缺陷：
+###定时器   
 
+定时器类Timer在java.util包中。定时器任务类TimerTask是抽象类，继承并重写其run()方法，可实现具体任务。    
+
+schedule(TimerTask task, Date time)    
+设定指定任务task在指定时间time执行。 
+
+cancel()  
+结束这个定时器。    
+
+schedule(TimerTask task, long delay, long period)    
+设定指定任务task在指定延迟delay后进行固定延迟peroid的执行。
+
+scheduleAtFixedRate(TimerTask task, long delay, long period) 
+设定指定任务task在指定延迟delay后进行固定频率peroid的执行。 
+
+要实现一个定时任务，运用java中的Timer和TimerTask类可以非常容易实现实时调用处理函数。
+
+
+####Timer存在一些缺陷：
 1，Timer对调度的支持是基于绝对时间,而不是相对时间的，由此任务对系统时钟的改变是敏感的;ScheduledThreadExecutor只支持相对时间。 
 
 2，如果TimerTask抛出未检查的异常，Timer将会产生无法预料的行为。Timer线程并不捕获异常，所以 TimerTask抛出的未检查的异常会终止timer线程。此时，已经被安排但尚未执行的TimerTask永远不会再执行了，新的任务也不能被调度了。
+
+**常使用 ScheduledExecutorService 来替换 Timer**
+
+####使用示例：
+Timer timer=new Timer();   
+timer.schedule(new MyTimerTask(), 0, 5000);   
+这里的MyTimerTask类是 extends TimerTask，并实现run()方法。
+
+ 
+
+

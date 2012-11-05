@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HashMap &  LinkedHashMap & HashTable"
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-10-08

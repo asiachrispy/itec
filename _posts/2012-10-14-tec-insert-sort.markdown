@@ -29,8 +29,7 @@ date: 2012-10-14
     }
 ```
 
-** Arrays 关键代码如下**   
-
+####Arrays 关键代码如下   
 ```     
     public static void sort(Object[] a) {
         Object[] aux = (Object[])a.clone();
