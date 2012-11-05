@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Subversion to Git migration  "
-tag: "English"
+tag: "tec"
 comment: true
 published: true
 date: 2012-09-29

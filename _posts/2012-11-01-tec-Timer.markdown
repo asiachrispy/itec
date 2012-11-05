@@ -4,7 +4,7 @@ title: "任务如何延迟执行"
 tag: "tec"
 comment: true
 published: true
-date: 2012-10-08
+date: 2012-11-01
 ---
 
 ###定时器   
