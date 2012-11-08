@@ -13,17 +13,17 @@ JDK1.6版添加了新的ScriptEngine类，允许用户直接执行js代码。
 ####在Java中直接调用js代码
 不能调用浏览器中定义的js函数，会抛出异常提示ReferenceError: “alert” is not defined。
 
-```
-package com.sinaapp.manjushri;
+
+    package com.sinaapp.manjushri;
  
-import javax.script.ScriptEngine;
-import javax.script.ScriptEngineManager;
-import javax.script.ScriptException;
+    import javax.script.ScriptEngine;
+    import javax.script.ScriptEngineManager;
+    import javax.script.ScriptException;
  
-/**
- * 直接调用js代码
- */
-public class ScriptEngineTest {
+    /**
+     * 直接调用js代码
+     */
+    public class ScriptEngineTest {
  
 	public static void main(String[] args) {
 		ScriptEngineManager manager = new ScriptEngineManager();
@@ -36,24 +36,24 @@ public class ScriptEngineTest {
 			e.printStackTrace();
 		}
 	} 
-}
-```
+    }
+
 
 输出结果：7
 
 ####在Java中绑定js变量
 在调用engine.get(key);时，如果key没有定义，则返回null
 
-```
-package com.sinaapp.manjushri;
+
+    package com.sinaapp.manjushri;
  
-import javax.script.Bindings;
-import javax.script.ScriptContext;
-import javax.script.ScriptEngine;
-import javax.script.ScriptEngineManager;
-import javax.script.ScriptException;
+    import javax.script.Bindings;
+    import javax.script.ScriptContext;
+    import javax.script.ScriptEngine;
+    import javax.script.ScriptEngineManager;    
+    import javax.script.ScriptException;
  
-public class ScriptEngineTest2 {
+    public class ScriptEngineTest2 {
 	public static void main(String[] args) {
 		ScriptEngineManager manager = new ScriptEngineManager();
 		ScriptEngine engine = manager.getEngineByName("javascript");
@@ -71,8 +71,8 @@ public class ScriptEngineTest2 {
 			e.printStackTrace();
 		}
 	}
-}
-```
+    }
+
 输出：
 result = 7.0
 c = 7.0
@@ -80,31 +80,31 @@ c = 7.0
 ####在Java中调用js文件中的function，传入调用参数，并获取返回值
 js文件中的merge函数将两个参数a，b相加，并返回c。
 
-```
-// expression.js
-function merge(a, b) {
+
+    // expression.js
+    function merge(a, b) {
 	c = a * b;
 	return c;
-}
-```
+    }
+
 
 在Java代码中读取js文件，并参数两个参数，然后回去返回值。
 
-```
-package com.sinaapp.manjushri;
+
+    package com.sinaapp.manjushri;
  
-import java.io.FileReader;
+    import java.io.FileReader;
  
-import javax.script.Invocable;
-import javax.script.ScriptEngine;
-import javax.script.ScriptEngineManager;
+    import javax.script.Invocable;
+    import javax.script.ScriptEngine;
+    import javax.script.ScriptEngineManager;
  
-/**
- * Java调用并执行js文件，传递参数，并活动返回值
- *
- * @author manjushri
- */
-public class ScriptEngineTest {
+    /**
+     * Java调用并执行js文件，传递参数，并活动返回值
+     *
+     * @author manjushri
+     */
+    public class ScriptEngineTest {
  
 	public static void main(String[] args) throws Exception {
 		ScriptEngineManager manager = new ScriptEngineManager();
@@ -124,8 +124,7 @@ public class ScriptEngineTest {
 		}
 		reader.close();
 	}
-}
+    }
 
-```
 
 摘自：[Manjushri的知识库](http://manjushri.sinaapp.com/?p=50#more-50)
