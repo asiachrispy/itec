@@ -6,10 +6,13 @@ comment: true
 published: true
 date: 2012-10-08
 ---
+
 看看选择排序如何实现。
 
+
 ```   
-static void selectionSort (int[] array) {
+
+    static void selectionSort (int[] array) {
           // 最后一个数不需要再比较了，所以-1
 	    for (int i = 0; i < array.length - 1; i++) {  
 			int min_idx = i; // 假设当前值最小的值，并记录下标
@@ -26,7 +29,6 @@ static void selectionSort (int[] array) {
 				swap(array, min_idx, i);
 			}
 		}
-}
-
+    }
 ```
 
