@@ -10,7 +10,7 @@ meta:
         name: chrispy
         email: asiachrispy@gmail.com
 
-baseurl: 
+baseurl:/itec
 url: http://asiachrispy.github.com/itec
 
 markdown: kramdown
