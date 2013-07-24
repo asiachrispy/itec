@@ -23,15 +23,18 @@ date: 2013-07-21
     2.2 表数据文件本身就是按B+Tree组织的一个索引结构，这棵树的叶节点data域保存了完整的数据记录;
     2.3 与MyISAM索引的不同是InnoDB的辅助索引data域存储相应记录主键的值而不是地址;
     
+    
  ---------------------
     
 #### MyISAM
+
  * Mysql默认表类型，它是基于传统的ISAM类型，ISAM是Indexed Sequential Access Method (有索引的顺序访问方法) 的缩写，它是存储记录和文件的标准方法。
  
  * 非事务安全，不支持外键
  * 如果执行大量的select，insert MyISAM比较适合。
 
 #### InnoDB
+
 * Innodb最初是由innobase Oy公司开发，2006年5月由oracle公司并购，目前innodb采用双授权，一个是GPL授权，一个是商业授权。
 
 * 支持事务安全的引擎，支持外键、行锁、事务是他的最大特点
