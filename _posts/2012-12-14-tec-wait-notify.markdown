@@ -6,11 +6,11 @@ comment: true
 published: true
 date: 2012-12-14
 ---
+####wait & notify 到底等待和通知什么
 
-####看看下面的代码，我们来一起分析下：
-    
-```   
+看看下面的代码，我们来一起分析下：
 
+```
 public class ThreadA { 
 　　 public static void main(String[] args)  { 
 　　      ThreadB b=new ThreadB(); 
@@ -42,7 +42,6 @@ public class ThreadA {
 　　      } 
 　　} 
 } 
-
 ```
 
 　　要分析这个程序,首先要理解notify()和wait(),两个方法本不属于Thread类,而是属于最底层的object基础类的,也就是说不光是Thread，每个对象都有notify和wait的功能，为什么？因为他们是用来操纵锁的,而每个对象都有锁,锁是每个对象的基础,既然锁是基础的,那么操纵锁的方法当然也是最基础了. 

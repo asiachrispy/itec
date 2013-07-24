@@ -36,6 +36,6 @@ date: 2013-07-24
 - 第14节structured learning (kai)	45分钟
 - 第15节feature learning and deep learning (kai) 47分钟
 - 第16节：transfer learning and semi supervised learning (kai) 52分钟
-- 第17节：matrix factorization and recommendations (kai)	42分钟
+- 第17节：matrix factorization and recommendations (kai) 42分钟
 - 第18节learning on images (kai)	46分钟
-第19节learning on the web (tong)
+- 第19节learning on the web (tong) 50分钟
