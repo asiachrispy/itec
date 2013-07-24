@@ -6,11 +6,9 @@ comment: true
 published: true
 date: 2012-12-14
 ---
-
 详细大家对wait & notify 并不陌生，但是还是先看看下面的代码，我们来一起分析下：
 
 ```
-
 public class ThreadA { 
 　　 public static void main(String[] args)  { 
 　　      ThreadB b=new ThreadB(); 
