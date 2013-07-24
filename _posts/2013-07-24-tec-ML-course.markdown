@@ -6,8 +6,6 @@ comment: true
 published: true
 date: 2013-07-24
 ---
-### 机器学习 Machine Learning 课程 
-
 最近在学习 ML，在百度文库中发现龙星计划“机器学习”课程，由著名学者俞凯博士和张潼老师共同讲授，及其可贵，对ML感兴趣的同学可以好好享受一顿大餐了。
  
 课程地址：[视频](http://wenku.baidu.com/course/study/53b9fd0a79563c1ec5da7107)
