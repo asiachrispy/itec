@@ -7,8 +7,6 @@ published: true
 date: 2013-07-17
 ---
 
-Hey!   
-
 One of the most common things people email me about is maybe not so
 surprisingly procrastination.
 
