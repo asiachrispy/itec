@@ -9,10 +9,10 @@ date: 2013-03-17
 
 下面给出的几到算法题非常有意思，也许你已经练习过，或者你能给出自己的答案，又或者你完全没有思绪，无论怎样，我都建议你一定坚持看完，并相信你一定受益匪浅，当然，如果你能给出更好的答案，那么请一定和我们一起分享。
 
-```       
-/**
- * User: Chris   
- */
+```          
+/**      
+ * User: Chris      
+ */     
 public class TouTiaoInterface {
 
     /**
@@ -203,7 +203,7 @@ public class TouTiaoInterface {
 -----------
 -----------
 
-###下面是我最新学习过的一些算法
+###下面是我最新学习过的和计划学习的一些算法
 
 1. KNN k-nearest neighbor
 2. PageRank
@@ -214,19 +214,19 @@ public class TouTiaoInterface {
 
 4. tf-idf模型
 5. 相似图片搜索的原理
-6. 相似度
-   6.1 余弦相似度 Cosine-based Similarity
-   6.2 欧几里德距离（Euclidean Distance）
-   6.3 皮尔逊相关系数
+6. 相似度     
+   6.1 余弦相似度 Cosine-based Similarity      
+   6.2 欧几里德距离（Euclidean Distance）     
+   6.3 皮尔逊相关系数     
    
-7. 聚类算法
-   7.1 K 均值聚类算法
-   7.2 Canopy 聚类算法
-   7.3 模糊 K 均值聚类算法
+7. 聚类算法       
+   7.1 K 均值聚类算法     
+   7.2 Canopy 聚类算法     
+   7.3 模糊 K 均值聚类算法     
 
-8. 分类算法
-   8.1 决策树学习
-   8.2 贝叶斯分类-贝叶斯定理
+8. 分类算法     
+   8.1 决策树学习     
+   8.2 贝叶斯分类-贝叶斯定理     
    
 9. K-means算法
 ```
