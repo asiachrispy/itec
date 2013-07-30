@@ -16,7 +16,7 @@ date: 2013-07-24
 
 #### 课程表
 
-下面是课程表，大家可以根据自己的时间合理安排学习，我计划每天学习2个章节，同时做笔记，有一些概念需要学习和理解。
+下面是课程表，大家可以根据自己的时间合理安排学习，同时做笔记，有一些概念需要学习和理解。
 
 - 第1节：Introduction to ML and review of linear algebra, probability, statistics (kai) 50分钟
 - 第2节：linear model (tong) 47分钟
