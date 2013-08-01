@@ -10,13 +10,13 @@ date: 2013-07-31
 继上次[一些有意思的算法](http://asiachrispy.github.io/itec/itec/2013/07/26/some-algri/)之后，我陆续整理了一些常用算法，以及一些在面试中常见的算法，也许你胸有成竹，也许你初次了解，都知道你读一读，温故而知新。希望你有新的收获，如有问题，或者对算法有更好的优化都，请联系我。
 
 ```        
-import java.util.ArrayList;
-import java.util.List;
+import java.util.ArrayList;    
+import java.util.List;    
 
-/**
- * User: chris
- * Date: 2013-07-27
- */
+/**    
+ * User: chris     
+ * Date: 2013-07-31   
+ */    
 public class SomeAlgorithm {
 
     /**

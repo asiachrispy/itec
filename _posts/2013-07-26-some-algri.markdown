@@ -4,16 +4,16 @@ title: "一些有意思的算法"
 tag: "tec"
 comment: true
 published: true
-date: 2013-07-26
+date: 2013-03-17
 ---
 
 下面给出的几到算法题非常有意思，也许你已经练习过，或者你能给出自己的答案，又或者你完全没有思绪，无论怎样，我都建议你一定坚持看完，并相信你一定受益匪浅，当然，如果你能给出更好的答案，那么请一定和我们一起分享。
 
 ```          
-/**      
- * User: Chris      
- */     
-public class TouTiaoInterface {
+/**             
+ * User: Chris          
+ */          
+public class TouTiaoInterface {      
 
     /**
      *   所谓循环有序数组，就是把一个排好序（以升序排列为例）的数组从某个（未知）位置处截为两段，
