@@ -34,29 +34,40 @@ Pack your bag or suitcase. Pack the leftovers from your dinner in a container an
 ##### 2. Just check your email once a day.    
 Checking email, other statistics or social media accounts many times a day tends to drain a lot of time, energy and can leave you unfocused and stressed. Try checking and processing all of those things just once a day instead. I do it at the end of my workday.
 If that is not possible for you then try to postpone it for a few hours at least. And put your morning energy and focus into your most important task of the day.
+
 #####  3. Write shorter emails.    
 Limit your emails to 1-5 sentences when possible. You can also have some canned responses for common questions saved in a folder in your email program. This will help you to spend less time and energy on your daily email processing.
+
 #####  4. Be 5-10 minutes early for appointments.    
 This will make your time of travel during the day into a time of relaxation and recharging. Instead of a time of stress and anxiety. Plus, people tend to like when other people are on time.
+
 #####  5. Work on just one thing at a time.      
 It will be easier to focus and to do a good job. And to do it in less time compared to if you try to multi-task (at least if you are anything like me).
+
 #####  6. Work in a cone of silence.     
 Just before you start working on that one thing shut down your email program and instant messaging programs. Shut the door to your office. Put your cell phone in silent mode and put it in a drawer. If possible, shut down your internet connection. Or use an extension for your browser like StayFocusd.
+
 #####  7. During your day regularly ask yourself questions for simplicity and focus.     
 It is easy to get off track during a regular workday. To stay on track or to get back there if you get lost use questions like:   
 - What is the most important thing I can do right now?     
 - What would I work on if I only had 2 hours for work today?     
 - Is doing this bringing me closer to my goal?     
 - Am I keeping things extremely simple right now?      
+
 #####  8. Let your lunch time be a time of relaxing.    
 Eat slowly. Put down the fork between bites to make that easier. Eat mindfully and savor each bite. Eating your lunch this way can help you to relax and to release quite a bit of stress in the middle of your workday. Plus, it can help you to not overeat because it takes your brain 20 minutes to register that you are full. By slowing down your eating your brain can stop you before you eat too much.
+
 #####  9. Spend 80% of your time focusing on a solution.     
 And only 20% of your time on dwelling on your issue, challenge or problem. Instead of doing it the other way around. This makes it easier to live a lighter and more action-filled life and to not fall down into a pit of self-pity or getting stuck in a mental habit of perceived powerlessness.
+
 #####  10 . Ask for help.     
 You don’t have to always go it alone. You can ask for help. You may not always get it but you may also be surprised at how helpful and kind people can be in helping you ease your burdens and solve a challenge. Just don’t forget to do the same for them as best you can when they ask.
+
 #####  11. When overwhelmed, breathe and then say to yourself: just take care of today.      
 Focus only on that. Forget about all those tomorrows and your yesterdays. Go small, narrow your focus greatly and just take care of today. Then take care of tomorrow when it comes.
+
 #####  12. Consciously set and maintain firm boundaries between your work and personal time. 
 Have a set stop time for your daily work (mine is 7 o clock). Do not work on weekends. Consciously manage your boundaries and you’ll have less stress and more energy and focus both to do better work and to have a personal life of higher quality. This is one of the most important and often overlooked habits in this article.
+
 #####  13. Be smart about the 3 fundamentals of energy. 
 By that I mean getting enough sleep, exercising a couple of times a week and eating healthy. This may seem very obvious in theory. But in practice it makes a world of difference for your optimism, energy levels, ability to handle stress and to think clearly.
