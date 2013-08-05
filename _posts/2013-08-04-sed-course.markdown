@@ -9,13 +9,15 @@ date: 2013-08-04
 最近在温习一些知识，同时记录学习的笔记，并整理成文章，希望大家喜欢。另外推荐大家阅读下我转载的一篇外文[[thoughts from the red planet]](http://nathanmarz.com/blog/you-should-blog-even-if-you-have-no-readers.html).当然你也可以在我的博客里文章里找到。在后面的我会完成awk的使用文章，敬请期待吧！
 
 --------------
-假设我们已经创建了一个测试文件，文件内容如下：
-# cat chris.txt
-1-Hello,asia-chris!                                                                                              
-2-if you are asia-chris,please response me!
+假设我们已经创建了一个测试文件，文件内容如下：   
+```
+# # cat chris.txt              
+1-Hello,asia-chris!                                                                                                 
+2-if you are asia-chris,please response me!   
 3-   
 4-this is asia chris,not chris fire!
-5-but this is chris fire, not asia chris!
+5-but this is chris fire, not asia chris!   
+```
 
 **注意：** 下面的sed并没有对文件的内容改变，只是把处理过后的内容输出，如果你要写回文件，你可以使用重定向，或者使用-i命令，本文为了测试，不进行编辑后的保存，但是你要知道-i将保存修改后的内容。
 
@@ -140,7 +142,7 @@ HELLO, WORLD
 > # echo "hello, world" | tr a-z A-Z 
 HELLO, WORLD
 
-8> 退出命令 q;当sed读取到匹配的行之后即退出，不会再读入新的行，并且将当前模式空间的内容输出到屏幕
+8> 退出命令 q;当sed读取到匹配的行之后即退出，不会再读入新的行，并且将当前模式空间的内容输出到屏幕。    
 1. 打印前3行的信息
 > # sed '3q' chris.txt 
 1-Hello,asia-chris!    
@@ -156,4 +158,6 @@ HELLO, WORLD
 但是对于大文件来说，前者比后者效率更高，因为前者读取到第N行之后就退出了。后者虽然打印了前N行，但是后续的行还是要继续读入，只不会不作处理。
 
 就先介绍到这里吧，希望没有花费你太多时间阅读！
+
+写于 北京.2013-8-4 晚11点
 

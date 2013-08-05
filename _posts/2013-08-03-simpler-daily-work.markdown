@@ -7,7 +7,7 @@ published: true
 date: 2013-08-03
 ---
 
-你是不是迷失在每日忙忙碌碌或者无所事事的工作中，你是不是总在寻找工作和生活的平衡点，如果你是上面的一种，那么这篇文章绝对值得你阅读，如果你已经能高效的完成工作并知道如何平衡工作和生活，那么可以说说你是如何处理的，也许我们都能从中受益，下面的内容来自[Henrik Edberg] (http://www.positivityblog.com/index.php/2013/07/25/simpler-daily-work/),文章介绍了13个聪明的习惯，它将帮助你应对简单的日常工作，让你的工作不在乏味。
+你是不是迷失在每日忙忙碌碌或者无所事事的工作中，你是不是总在寻找工作和生活的平衡点，如果你是上面的一种，那么这篇文章绝对值得你阅读，如果你已经能高效的完成工作并知道如何平衡工作和生活，那么可以说说你是如何处理的，也许我们都能从中受益，下面的内容来自[Henrik Edberg](http://www.positivityblog.com/index.php/2013/07/25/simpler-daily-work/),文章介绍了13个聪明的习惯，它将帮助你应对简单的日常工作，让你的工作不在乏味。
 
 
 ####Simpler Daily Work: 13 Smart Habits That Will Help You
